@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c82efadc-e425-4c44-871d-03173c7d945e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/src/AppBundle/Service/MapManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/tests/AppBundle/Controller/BoatControllerTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/app/Resources/views/map/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/app/Resources/views/map/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/src/AppBundle/Controller/BoatController.php" beforeDir="false" afterPath="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/src/AppBundle/Controller/BoatController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/src/Service/MapManager.php" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/composer.json</pharConfigPath>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/symfony/symfony" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/doctrine/doctrine-fixtures-bundle" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/symfony/polyfill-apcu" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/doctrine/data-fixtures" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/composer" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/sensio/generator-bundle" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/bin/.phpunit" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/sensio/distribution-bundle" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/incenteev/composer-parameter-handler" />
+      <path value="$PROJECT_DIR$/php_0218_checkpoint3_Strasbourg_eleves/vendor/monolog/monolog" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="822" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="php_0218_checkpoint3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php_0218_checkpoint3" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="php_0218_checkpoint3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php_0218_checkpoint3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="php_0218_checkpoint3_Strasbourg_eleves" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="php_0218_checkpoint3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php_0218_checkpoint3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="php_0218_checkpoint3_Strasbourg_eleves" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="php_0218_checkpoint3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php_0218_checkpoint3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="php_0218_checkpoint3_Strasbourg_eleves" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c82efadc-e425-4c44-871d-03173c7d945e" name="Default" comment="" />
+      <created>1528813674417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528813674417</updated>
+      <workItem from="1528813676821" duration="120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="120000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="822" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32863188" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
